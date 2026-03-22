@@ -4,3 +4,4 @@ dnspython
 pandas
 openpyxl
 xlsxwriter
+reportlab
